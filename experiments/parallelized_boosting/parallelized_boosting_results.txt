@@ -1,0 +1,507 @@
+FMNIST	 accuracy: 0.866	 time: 47.30	 split: 2/2
+m1 acc: 0.846	 m2 acc: 0.832	 m3 acc: 0.848
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 169.76	 split: 15/15
+m1 acc: 0.870	 m2 acc: 0.834	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 140.73	 split: 15/15
+m1 acc: 0.867	 m2 acc: 0.847	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 144.42	 split: 15/15
+m1 acc: 0.870	 m2 acc: 0.826	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 104.91	 split: 5/25
+m1 acc: 0.867	 m2 acc: 0.838	 m3 acc: 0.872
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 105.95	 split: 5/25
+m1 acc: 0.869	 m2 acc: 0.809	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 105.37	 split: 5/25
+m1 acc: 0.867	 m2 acc: 0.836	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 104.50	 split: 5/25
+m1 acc: 0.872	 m2 acc: 0.831	 m3 acc: 0.872
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.890	 time: 107.13	 split: 5/25
+m1 acc: 0.874	 m2 acc: 0.837	 m3 acc: 0.877
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 104.87	 split: 5/25
+m1 acc: 0.865	 m2 acc: 0.846	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 105.24	 split: 5/25
+m1 acc: 0.868	 m2 acc: 0.840	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 104.32	 split: 5/25
+m1 acc: 0.867	 m2 acc: 0.835	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 105.49	 split: 5/25
+m1 acc: 0.871	 m2 acc: 0.836	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 105.15	 split: 5/25
+m1 acc: 0.868	 m2 acc: 0.843	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 118.15	 split: 5/25
+m1 acc: 0.869	 m2 acc: 0.831	 m3 acc: 0.863
+layer nodes: [100, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 104.43	 split: 5/25
+m1 acc: 0.868	 m2 acc: 0.837	 m3 acc: 0.866
+layer nodes: [100, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 105.25	 split: 5/25
+m1 acc: 0.865	 m2 acc: 0.832	 m3 acc: 0.864
+layer nodes: [100, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 104.01	 split: 5/25
+m1 acc: 0.871	 m2 acc: 0.828	 m3 acc: 0.858
+layer nodes: [100, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 104.78	 split: 5/25
+m1 acc: 0.864	 m2 acc: 0.837	 m3 acc: 0.863
+layer nodes: [100, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 126.13	 split: 5/25
+m1 acc: 0.873	 m2 acc: 0.830	 m3 acc: 0.874
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 104.94	 split: 5/25
+m1 acc: 0.866	 m2 acc: 0.848	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 105.38	 split: 5/25
+m1 acc: 0.861	 m2 acc: 0.832	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 105.17	 split: 5/25
+m1 acc: 0.863	 m2 acc: 0.845	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 103.75	 split: 5/25
+m1 acc: 0.863	 m2 acc: 0.833	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 104.43	 split: 5/25
+m1 acc: 0.872	 m2 acc: 0.855	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 104.43	 split: 5/25
+m1 acc: 0.868	 m2 acc: 0.840	 m3 acc: 0.874
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 104.97	 split: 5/25
+m1 acc: 0.862	 m2 acc: 0.829	 m3 acc: 0.864
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 105.03	 split: 5/25
+m1 acc: 0.870	 m2 acc: 0.848	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 104.89	 split: 5/25
+m1 acc: 0.865	 m2 acc: 0.834	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 160.19	 split: 10/50
+m1 acc: 0.870	 m2 acc: 0.831	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 154.69	 split: 10/50
+m1 acc: 0.864	 m2 acc: 0.828	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 156.25	 split: 10/50
+m1 acc: 0.869	 m2 acc: 0.828	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 159.45	 split: 10/50
+m1 acc: 0.867	 m2 acc: 0.830	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 157.43	 split: 10/50
+m1 acc: 0.864	 m2 acc: 0.836	 m3 acc: 0.861
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 148.50	 split: 10/50
+m1 acc: 0.863	 m2 acc: 0.825	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 154.24	 split: 10/50
+m1 acc: 0.869	 m2 acc: 0.829	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 161.36	 split: 10/50
+m1 acc: 0.863	 m2 acc: 0.836	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 160.52	 split: 10/50
+m1 acc: 0.865	 m2 acc: 0.834	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 158.51	 split: 10/50
+m1 acc: 0.874	 m2 acc: 0.830	 m3 acc: 0.860
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 70.29	 split: 2/20
+m1 acc: 0.861	 m2 acc: 0.829	 m3 acc: 0.871
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 81.37	 split: 2/20
+m1 acc: 0.866	 m2 acc: 0.842	 m3 acc: 0.873
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 81.18	 split: 2/20
+m1 acc: 0.867	 m2 acc: 0.817	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 80.82	 split: 2/20
+m1 acc: 0.861	 m2 acc: 0.850	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 80.69	 split: 2/20
+m1 acc: 0.872	 m2 acc: 0.842	 m3 acc: 0.864
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 81.20	 split: 2/20
+m1 acc: 0.872	 m2 acc: 0.832	 m3 acc: 0.878
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 79.68	 split: 2/20
+m1 acc: 0.867	 m2 acc: 0.848	 m3 acc: 0.874
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.880	 time: 79.90	 split: 2/20
+m1 acc: 0.870	 m2 acc: 0.849	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 80.28	 split: 2/20
+m1 acc: 0.868	 m2 acc: 0.842	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 80.71	 split: 2/20
+m1 acc: 0.866	 m2 acc: 0.838	 m3 acc: 0.856
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 92.42	 split: 1/19
+m1 acc: 0.866	 m2 acc: 0.834	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 102.00	 split: 1/15
+m1 acc: 0.867	 m2 acc: 0.847	 m3 acc: 0.859
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.872	 time: 48.30	 split: 2/2
+m1 acc: 0.860	 m2 acc: 0.830	 m3 acc: 0.846
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.873	 time: 48.37	 split: 2/2
+m1 acc: 0.861	 m2 acc: 0.826	 m3 acc: 0.847
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 62.42	 split: 2/10
+m1 acc: 0.862	 m2 acc: 0.847	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.882	 time: 62.25	 split: 2/10
+m1 acc: 0.868	 m2 acc: 0.839	 m3 acc: 0.864
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 61.43	 split: 2/10
+m1 acc: 0.859	 m2 acc: 0.823	 m3 acc: 0.873
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 67.02	 split: 2/10
+m1 acc: 0.860	 m2 acc: 0.836	 m3 acc: 0.873
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 62.90	 split: 2/10
+m1 acc: 0.867	 m2 acc: 0.836	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 58.59	 split: 2/7
+m1 acc: 0.869	 m2 acc: 0.830	 m3 acc: 0.851
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 57.08	 split: 2/7
+m1 acc: 0.864	 m2 acc: 0.847	 m3 acc: 0.873
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.880	 time: 56.82	 split: 2/7
+m1 acc: 0.863	 m2 acc: 0.842	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.882	 time: 115.32	 split: 2/7
+m1 acc: 0.859	 m2 acc: 0.829	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.878	 time: 56.61	 split: 2/7
+m1 acc: 0.867	 m2 acc: 0.829	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 56.94	 split: 1/10
+m1 acc: 0.872	 m2 acc: 0.826	 m3 acc: 0.860
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.875	 time: 56.33	 split: 1/10
+m1 acc: 0.855	 m2 acc: 0.835	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.882	 time: 56.35	 split: 1/10
+m1 acc: 0.867	 m2 acc: 0.843	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.877	 time: 56.46	 split: 1/10
+m1 acc: 0.862	 m2 acc: 0.840	 m3 acc: 0.857
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 56.86	 split: 1/10
+m1 acc: 0.869	 m2 acc: 0.856	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 57.19	 split: 1/10
+m1 acc: 0.867	 m2 acc: 0.844	 m3 acc: 0.860
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 58.44	 split: 1/10
+m1 acc: 0.873	 m2 acc: 0.845	 m3 acc: 0.872
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 56.44	 split: 1/10
+m1 acc: 0.869	 m2 acc: 0.847	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.877	 time: 56.96	 split: 1/10
+m1 acc: 0.866	 m2 acc: 0.835	 m3 acc: 0.861
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 56.72	 split: 1/10
+m1 acc: 0.868	 m2 acc: 0.847	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 63.65	 split: 1/13
+m1 acc: 0.863	 m2 acc: 0.852	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 63.08	 split: 1/13
+m1 acc: 0.873	 m2 acc: 0.863	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.881	 time: 63.15	 split: 1/13
+m1 acc: 0.859	 m2 acc: 0.842	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 62.26	 split: 1/13
+m1 acc: 0.871	 m2 acc: 0.834	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 62.89	 split: 1/13
+m1 acc: 0.865	 m2 acc: 0.843	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.876	 time: 62.71	 split: 1/13
+m1 acc: 0.857	 m2 acc: 0.841	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 62.61	 split: 1/13
+m1 acc: 0.873	 m2 acc: 0.848	 m3 acc: 0.871
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 62.87	 split: 1/13
+m1 acc: 0.872	 m2 acc: 0.843	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 62.59	 split: 1/13
+m1 acc: 0.859	 m2 acc: 0.838	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 63.60	 split: 1/13
+m1 acc: 0.859	 m2 acc: 0.850	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 253.79	 split: 25/75
+m1 acc: 0.863	 m2 acc: 0.835	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 257.61	 split: 25/75
+m1 acc: 0.866	 m2 acc: 0.833	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 253.90	 split: 25/75
+m1 acc: 0.866	 m2 acc: 0.834	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 256.03	 split: 25/75
+m1 acc: 0.865	 m2 acc: 0.828	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 257.92	 split: 25/75
+m1 acc: 0.859	 m2 acc: 0.831	 m3 acc: 0.858
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 252.99	 split: 25/75
+m1 acc: 0.869	 m2 acc: 0.824	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 257.12	 split: 25/75
+m1 acc: 0.865	 m2 acc: 0.823	 m3 acc: 0.861
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 256.92	 split: 25/75
+m1 acc: 0.863	 m2 acc: 0.836	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 260.59	 split: 25/75
+m1 acc: 0.864	 m2 acc: 0.823	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 256.57	 split: 25/75
+m1 acc: 0.861	 m2 acc: 0.833	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 225.79	 split: 20/70
+m1 acc: 0.863	 m2 acc: 0.830	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 268.53	 split: 20/70
+m1 acc: 0.865	 m2 acc: 0.828	 m3 acc: 0.857
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.883	 time: 270.02	 split: 20/70
+m1 acc: 0.861	 m2 acc: 0.829	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.882	 time: 265.17	 split: 20/70
+m1 acc: 0.860	 m2 acc: 0.835	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 266.45	 split: 20/70
+m1 acc: 0.865	 m2 acc: 0.829	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 267.81	 split: 20/70
+m1 acc: 0.861	 m2 acc: 0.822	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.891	 time: 267.14	 split: 20/70
+m1 acc: 0.871	 m2 acc: 0.833	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 269.04	 split: 20/70
+m1 acc: 0.863	 m2 acc: 0.839	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 267.08	 split: 20/70
+m1 acc: 0.867	 m2 acc: 0.833	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 265.06	 split: 20/70
+m1 acc: 0.865	 m2 acc: 0.836	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.890	 time: 271.14	 split: 20/60
+m1 acc: 0.864	 m2 acc: 0.830	 m3 acc: 0.869
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 250.10	 split: 20/60
+m1 acc: 0.865	 m2 acc: 0.833	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 249.54	 split: 20/60
+m1 acc: 0.866	 m2 acc: 0.830	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.891	 time: 249.47	 split: 20/60
+m1 acc: 0.866	 m2 acc: 0.837	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 254.00	 split: 20/60
+m1 acc: 0.861	 m2 acc: 0.843	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 248.17	 split: 20/60
+m1 acc: 0.857	 m2 acc: 0.831	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 249.29	 split: 20/60
+m1 acc: 0.865	 m2 acc: 0.837	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 249.57	 split: 20/60
+m1 acc: 0.868	 m2 acc: 0.828	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 249.23	 split: 20/60
+m1 acc: 0.867	 m2 acc: 0.826	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 248.89	 split: 20/60
+m1 acc: 0.867	 m2 acc: 0.832	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 187.33	 split: 20/50
+m1 acc: 0.866	 m2 acc: 0.840	 m3 acc: 0.871
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 190.58	 split: 20/50
+m1 acc: 0.867	 m2 acc: 0.833	 m3 acc: 0.864
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 226.74	 split: 20/50
+m1 acc: 0.868	 m2 acc: 0.828	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 229.89	 split: 20/50
+m1 acc: 0.866	 m2 acc: 0.826	 m3 acc: 0.867
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 231.81	 split: 20/50
+m1 acc: 0.865	 m2 acc: 0.826	 m3 acc: 0.871
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.891	 time: 233.68	 split: 20/50
+m1 acc: 0.870	 m2 acc: 0.837	 m3 acc: 0.870
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 233.09	 split: 20/50
+m1 acc: 0.862	 m2 acc: 0.833	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.888	 time: 227.94	 split: 20/50
+m1 acc: 0.867	 m2 acc: 0.831	 m3 acc: 0.865
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 228.04	 split: 20/50
+m1 acc: 0.862	 m2 acc: 0.828	 m3 acc: 0.864
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.884	 time: 287.34	 split: 20/50
+m1 acc: 0.863	 m2 acc: 0.834	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.886	 time: 232.84	 split: 20/50
+m1 acc: 0.868	 m2 acc: 0.831	 m3 acc: 0.866
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.885	 time: 230.89	 split: 20/50
+m1 acc: 0.862	 m2 acc: 0.831	 m3 acc: 0.862
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.889	 time: 230.16	 split: 20/50
+m1 acc: 0.868	 m2 acc: 0.841	 m3 acc: 0.868
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000
+
+FMNIST	 accuracy: 0.887	 time: 230.33	 split: 20/50
+m1 acc: 0.861	 m2 acc: 0.831	 m3 acc: 0.863
+layer nodes: [128, 100]	 batch size: 40000	 test size: 10000

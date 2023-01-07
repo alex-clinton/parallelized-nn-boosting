@@ -44,5 +44,5 @@ end = time.time()
 
 results = model.evaluate(x_test, y_test)
 
-with open('fully_connected/fully_connected_results_equivalent_data.txt', 'a') as f:
+with open('fully_connected/fully_connected_equivalent_data_results.txt', 'a') as f:
     f.write(f'FMNIST\t acc: {results[1]:.4f}\t time: {end-start:.2f}\t arch: {net_layers}\t epochs: {train_epoch}\t batch size: {batch_size}\n')
