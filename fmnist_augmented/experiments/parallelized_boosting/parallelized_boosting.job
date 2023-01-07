@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#SBATCH --exclusive
+#SBATCH --nodes=3
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem=0
+#SBATCH --nodelist=hpcl1-1,hpcl1-3,hpcl1-5
+
+source ~/.bashrc
+
+rm -r ../data/predictions
+rm -r ../data/train_set2
+rm -r ../data/train_set3
+
+module load mpi/mpich-3.2-x86_64
+conda activate tf
+
+mpiexec python3 parallel_boosting/parallel_boosting.py

@@ -1,0 +1,12 @@
+#!/bin/bash
+
+#SBATCH --exclusive
+#SBATCH --nodes=1
+#SBATCH --mem=0
+#SBATCH --nodelist=hpcl1-1
+
+source ~/.bashrc
+
+conda activate tf
+
+srun python3 fully_connected/fully_connected_equivalent_data.py
