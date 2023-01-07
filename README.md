@@ -1,5 +1,5 @@
 # parallelized-nn-boosting
-Proof of concept of parallelizing the training an ensemble of boosted neural networks. The code shown is some of the work I did over the course of the 2021 Salisbury REU.
+Proof of concept for parallelizing neural network boosting. The code shown is some of the work I did over the course of the 2021 Salisbury REU.
 
 
 ## Boosting Overview 
