@@ -13,7 +13,7 @@ While this technique is traditionally used with weak models such as decision tre
 ## Parallelizing Training
 <img align="right" src="parallelized_boosting.png" alt="drawing" width="200"/>
 
-The idea implemented in this project is to parallelize the process of boosting by preemtively guessing which examples a learner will find difficult. This is done by pausing training early, evaluating performance to create datasets for successive learners, and then resuming training. These early predictions are a good estimate of the final network's performance when the network's accuracy increases rapidly at the beginning of training and slowly climbs for the remainder of the training.
+The idea implemented in this project is to parallelize the process of boosting by preemtively guessing which examples a learner will find difficult. This is done by pausing training early, evaluating performance to create datasets for successive learners, and then resuming training. These early predictions are a good estimate of the final network's performance when the network's accuracy increases rapidly at the beginning of training and slowly climbs for the remainder of the training. In these cases the training time for boosting can be drastically reduced (~a factor of 3 when 3 networks are used) making it a more competitive approach.
 
 The project contains an implementation for a boosted ensemble of three neural networks and a single larger neural network comparable to the size of the three smaller networks combined.
 
